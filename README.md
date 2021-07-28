@@ -1,4 +1,4 @@
-# pytharm-base-knowledge
+# pytharm-base-knowledge(**author——董新宇**)
 # 下载与安装PyCharm
 > ## 下载PyCharm
 + 前往[PyCharm官网](https://www.jetbrains.com/pycharm/)进行下载，点击 <kbd>Download</kbd>进行PyCharm下载，如图：  
